@@ -1,0 +1,5 @@
+2025-12-19 20:24:40,835 - INFO - File renaming started
+2025-12-19 20:24:40,838 - INFO - Renamed file1.txt to document_1.txt
+2025-12-19 20:24:40,839 - INFO - Renamed file2.txt to document_2.txt
+2025-12-19 20:24:40,840 - INFO - Renamed file3.txt to document_3.txt
+2025-12-19 20:24:40,841 - INFO - File renaming completed successfully
