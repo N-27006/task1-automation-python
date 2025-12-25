@@ -1,5 +1,14 @@
-2025-12-19 20:24:40,835 - INFO - File renaming started
-2025-12-19 20:24:40,838 - INFO - Renamed file1.txt to document_1.txt
-2025-12-19 20:24:40,839 - INFO - Renamed file2.txt to document_2.txt
-2025-12-19 20:24:40,840 - INFO - Renamed file3.txt to document_3.txt
-2025-12-19 20:24:40,841 - INFO - File renaming completed successfully
+2025-12-25 10:40:53,597 - INFO - Renamed: file1.txt \u2192 file1.txt
+2025-12-25 10:40:53,599 - INFO - Renamed: file2.txt \u2192 file2.txt
+2025-12-25 10:40:53,600 - INFO - Renamed: file3.txt \u2192 file3.txt
+2025-12-25 10:40:53,601 - INFO - Renamed: MY FILE.pdf \u2192 my_file.pdf
+2025-12-25 10:40:53,602 - INFO - Renamed: photo 1.jpg \u2192 photo_1.jpg
+2025-12-25 10:40:53,603 - INFO - Renamed: Resume 2025.docx \u2192 resume_2025.docx
+2025-12-25 10:40:53,605 - INFO - Moved file1.txt to test_files\TXT_FILES
+2025-12-25 10:40:53,606 - INFO - Moved file2.txt to test_files\TXT_FILES
+2025-12-25 10:40:53,607 - INFO - Moved file3.txt to test_files\TXT_FILES
+2025-12-25 10:40:53,609 - INFO - Moved my_file.pdf to test_files\PDF_FILES
+2025-12-25 10:40:53,611 - INFO - Moved photo_1.jpg to test_files\JPG_FILES
+2025-12-25 10:40:53,613 - INFO - Moved resume_2025.docx to test_files\DOCX_FILES
+
+
